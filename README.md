@@ -41,7 +41,7 @@ Telco Customer Churn Dataset
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Dashboard_screenshot2.png)
 
 ## Conclusion
 The analysis identified key churn drivers and customer retention trends. Long-term contracts and loyal customers showed lower churn rates, while month-to-month customers were more likely to leave. These insights can help businesses improve customer retention strategies.
